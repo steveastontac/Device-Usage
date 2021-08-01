@@ -4,7 +4,7 @@ This is a python script i have written to provide statistics of your windows com
 Usage is simple .
 
 Extract 
-```Desktop.zip```
+[https://github.com/steveastontac/Device-Usage/raw/master/Desktop.rar][```Desktop.zip```]
 on your desktop 
 
 from the extracted files 
