@@ -14,3 +14,5 @@ to your task scheduler .
 
 >Once you complete the above steps the app will automatically start when u turn on your pc and keep track of everything including 
 the time you spend on the lockscreen .
+
+Use the statistics.py to find statistics for the current day . 
